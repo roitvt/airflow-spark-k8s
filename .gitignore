@@ -1,0 +1,6 @@
+
+airflow_spark_k8s.egg-info
+.DS_Store
+*.pyc
+dist
+build
